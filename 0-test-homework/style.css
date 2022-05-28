@@ -15,6 +15,7 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*всi парометри обнулив*/
 body{
+    background: url("../bg_repeat.jpg") 0 0/100% 100% no-repeat fixed;
     padding: 30px 300px;
     font-family: CustomSansSerif,'Lucida Grande',Arial,sans-serif;
     color: rgba(0, 0, 0, 0.8);
